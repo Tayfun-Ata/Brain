@@ -1,10 +1,4 @@
-# 🧠 Brain
-
-Welcome to **Brain** – an experimental Python project designed to explore, prototype, and innovate within the field of intelligent systems and artificial intelligence. This repository provides a foundation for building cognitive algorithms, experimenting with neural networks, and advancing smart solutions for real-world problems.
-
----
-
-## 🚀 Key Features
+## Key Features
 
 - **Python-Based:** Built using pure Python for ease of development and extensibility.
 - **Open Platform:** Suitable for research, prototyping, and tinkering with AI/ML ideas.
